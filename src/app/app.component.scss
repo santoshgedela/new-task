@@ -1,0 +1,127 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+ul{
+    li{
+        img{
+            width: 100px;
+        }
+    }
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    font-family:Verdana ;
+}
+.header{
+    background-color: #FBF79BC4;
+    padding: 6px;
+}
+
+button, nav{
+    border-radius: 16px;
+    background-color: white;
+    padding: 10px 20px;
+    text-align: center;
+    border: #FBF79BC4;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+
+}
+
+.homepage {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 50px;
+    padding: 160px;
+    font-family: The Girl Next Door;
+}
+
+.brocoli-img img {
+    width: 500px;
+}
+
+.brocoli-info h6 {
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 400;
+
+}
+.homepage1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #D4EEE233;
+}
+.brocoli-img1 img {
+    padding: 60px;
+    width: 650px;
+}
+.brocoli-info1 {
+    padding-right: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   h4{
+    text-align: center;
+   }
+}
+
+.homepage2{
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #D4EEE233;
+}
+.brocoli-img2 img {
+    padding: 60px;
+    width: 650px;
+}
+.brocoli-info2 {
+    padding-right: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   h4{
+    text-align: center;
+   }
+}
+.homepage3{
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #D4EEE233;
+}
+.brocoli-img3 img {
+    padding: 60px;
+    width: 650px;
+}
+.brocoli-info3 {
+    padding-right: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   h4{
+    text-align: center;
+   }
+}
+.homepage4{
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #D4EEE233;
+}
+.brocoli-img4 img {
+    padding: 60px;
+    width: 650px;
+}
+.brocoli-info4 {
+    padding-right: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   h4{
+    text-align: center;
+   }
+}
+.f2 { color:#50db04; text-align:left; vertical-align:text-top; font-size:85px; font-family:Bad Script; left:116px; width:50.693878173828125px; height:166px; position:absolute; line-height:auto; }
+ .arm2 { color:#3fb200; text-align:left; vertical-align:text-top; font-size:32.51755142211914px; font-family:The Girl Next Door; left:130px; top:74.52px; width:66px; height:35.96666717529297px; position:absolute; letter-spacing:5%; line-height:auto; }
+  .rom { color:#3fb200; text-align:left; vertical-align:text-top; font-size:32.51755142211914px; font-family:The Girl Next Door; left:138px; top:44.08px; width:66px; height:30.433334350585938px; position:absolute; letter-spacing:5%; line-height:auto; }
+   .resh { color:#3fb200; text-align:left; vertical-align:text-top; font-size:32.51755142211914px; font-family:The Girl Next Door; left:151px; top:15.54px; width:72px; height:29.511110305786133px; position:absolute; letter-spacing:5%; line-height:auto; }
